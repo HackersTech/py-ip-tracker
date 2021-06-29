@@ -2,7 +2,7 @@
 import os
 os.system('bash ip.sh')
 import pygeoip
-gi  =  pygeoip.GeoIP('/opt/GeoIP/Geo.dat') 
+gi  =  pygeoip.GeoIP('GeoLiteCity.dat')
 
 print ("\033[5;35m made by Hackers Tech ")
 
