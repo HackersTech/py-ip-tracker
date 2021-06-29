@@ -21,7 +21,7 @@ gem install lolcat -y
 
 pkg install python2 -y
 
-
+pip install pygeoip
 ```
 
 ### For Linux just do these -
