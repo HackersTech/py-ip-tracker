@@ -9,22 +9,13 @@ Track IP with exact location
 
 ## Command to install tool
 
-### Termux --requirements
+###  --requirements
 ```
-pkg install python -y
-
-pkg install git -y
-
-pkg install ruby -y
- 
-gem install lolcat -y
-
-pkg install python2 -y
 
 pip install pygeoip
 ```
 
-### For Linux just do these -
+### only For Linux  -
 
 **clone** **repo**
 
