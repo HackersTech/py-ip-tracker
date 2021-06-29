@@ -5,8 +5,7 @@ IP tracer made in python
 ![Ht](https://img.shields.io/badge/Made%20by-hackersTech-brightgreen)
 ---
 
-
-Here you get bash utilities for  encrypter / decrypter ,/ hash detector and random password generator 
+Track IP with exact location
 
 ## Command to install tool
 
